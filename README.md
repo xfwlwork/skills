@@ -19,6 +19,7 @@ skills/
 | Skill | Description |
 | --- | --- |
 | [`black-white-minimal-html`](skills/black-white-minimal-html/SKILL.md) | A black-and-white, line-based minimal HTML visual system for technical reports, product documentation, diagrams, and developer-facing pages. |
+| [`html-report-to-png`](skills/html-report-to-png/SKILL.md) | Build a polished single-file HTML report and export it to a tightly cropped PNG with Playwright and Chrome verification. |
 
 ## Skill format
 
